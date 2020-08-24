@@ -1,6 +1,10 @@
+/home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/course/CourseRepository.java
+/home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/course/Course.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/topic/TopicRepository.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/topic/TopicController.java
+/home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/course/CourseController.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/CourseApiApp.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/hello/HelloController.java
+/home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/course/CourseService.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/topic/TopicService.java
 /home/ramyapc/Documents/projects/src/main/java/io/javabrains/springboot/topic/Topic.java

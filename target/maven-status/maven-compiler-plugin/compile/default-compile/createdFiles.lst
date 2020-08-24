@@ -1,6 +1,7 @@
 io/javabrains/springboot/topic/TopicService.class
-io/javabrains/springboot/hello/HelloController.class
+io/javabrains/springboot/course/Course.class
 io/javabrains/springboot/topic/Topic.class
 io/javabrains/springboot/topic/TopicRepository.class
 io/javabrains/springboot/CourseApiApp.class
+io/javabrains/springboot/course/CourseRepository.class
 io/javabrains/springboot/topic/TopicController.class

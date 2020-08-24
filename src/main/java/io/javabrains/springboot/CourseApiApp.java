@@ -8,7 +8,8 @@ import org.springframework.context.annotation.ComponentScan;
 import java.util.Arrays;
 
 @SpringBootApplication
-@ComponentScan("io.javabrains.springboot.topic")
+@ComponentScan("io.javabrains.*")
+
 public class CourseApiApp {
 
     public static void main(String[] args){
